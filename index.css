@@ -85,6 +85,13 @@ nav{
 	font-size: 2em;
 	margin: 10px;
 	color: #5c6bc0;
+	text-shadow: 3px 3px 2px #c5cae9;
+}
+
+.item figcaption{
+	text-align: center;
+	font-size: .8em;
+	color: #666;
 }
 
 /*carousel*/
